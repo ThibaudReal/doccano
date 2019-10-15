@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://chakki-works.github.io/doccano/</loc>
+     <lastmod>2019-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://chakki-works.github.io/doccano/getting-started/</loc>
+     <lastmod>2019-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://chakki-works.github.io/doccano/tutorial/</loc>
+     <lastmod>2019-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://chakki-works.github.io/doccano/advanced/aws_https_settings/</loc>
+     <lastmod>2019-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://chakki-works.github.io/doccano/advanced/oauth2_settings/</loc>
+     <lastmod>2019-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://chakki-works.github.io/doccano/faq/</loc>
+     <lastmod>2019-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://chakki-works.github.io/doccano/CODE_OF_CONDUCT/</loc>
+     <lastmod>2019-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://chakki-works.github.io/doccano/roadmap/</loc>
+     <lastmod>2019-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
